@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Squirtle
+comment1.params=
+comment1.target=Squirtle()
+comment2.params=inputHp\ inputAttack\ inputDefense\ inputSpAtk\ inputSpDef\ inputSpeed\ inputName
+comment2.target=Squirtle(int,\ int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment3.params=anyPoorPokemon
+comment3.target=void\ zenHeadbutt(Pokemon)
+comment4.params=anyPoorPokemon
+comment4.target=void\ rapidSpin(Pokemon)
+comment5.params=anyPoorPokemon
+comment5.target=void\ tailWhip(Pokemon)
+comment6.params=anyPoorPokemon
+comment6.target=void\ ironDefense(Pokemon)
+comment7.params=opponent
+comment7.target=void\ attack(Pokemon)
+numComments=8

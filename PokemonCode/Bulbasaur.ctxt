@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bulbasaur
+comment1.params=
+comment1.target=Bulbasaur()
+comment2.params=inputHp\ inputAttack\ inputDefense\ inputSpAtk\ inputSpDef\ inputSpeed\ inputName
+comment2.target=Bulbasaur(int,\ int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment3.params=anyPoorPokemon
+comment3.target=void\ solarBeam(Pokemon)
+comment4.params=anyPoorPokemon
+comment4.target=void\ seedBomb(Pokemon)
+comment5.params=anyPoorPokemon
+comment5.target=void\ powerWhip(Pokemon)
+comment6.params=anyPoorPokemon
+comment6.target=void\ sludgeBomb(Pokemon)
+comment7.params=opponent
+comment7.target=void\ attack(Pokemon)
+numComments=8
