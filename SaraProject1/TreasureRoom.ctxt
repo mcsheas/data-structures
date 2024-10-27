@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TreasureRoom
+comment1.params=treasure
+comment1.target=TreasureRoom(AgeGroupTreasure)
+comment2.params=player
+comment2.target=void\ enter(Player)
+numComments=3
