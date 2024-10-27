@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MonsterRoom
+comment1.params=monster
+comment1.target=MonsterRoom(AgeGroupMonster)
+comment2.params=player
+comment2.target=void\ enter(Player)
+numComments=3
