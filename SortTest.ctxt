@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SortTest
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=sorter\ size
+comment2.target=void\ testSortingAlgorithms(Sorter,\ int)
+comment2.text=\r\n\ Helper\ method\ to\ test\ sorting\ algorithms\ with\ a\ given\ array\ size.\r\n
+comment3.params=array
+comment3.target=boolean\ validate(int[])
+comment3.text=\r\n\ Validates\ if\ the\ array\ is\ sorted\ in\ ascending\ order.\r\n\ \r\n\ @param\ array\ The\ array\ to\ validate\r\n\ @return\ True\ if\ the\ array\ is\ sorted,\ false\ otherwise\r\n
+comment4.params=size
+comment4.target=int[]\ generateRandomArray(int)
+comment4.text=\r\n\ Generates\ an\ array\ of\ random\ integers\ of\ a\ given\ size.\r\n
+numComments=5
