@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=StockData
+comment0.text=\r\n\ The\ StockData\ class\ represents\ a\ single\ record\ of\ stock\ data,\r\n\ including\ the\ date,\ closing\ price,\ RSI\ (Relative\ Strength\ Index),\r\n\ and\ Moving\ Average\ (MA).\r\n
+comment1.params=date\ close
+comment1.target=StockData(java.util.Date,\ double)
+comment1.text=\r\n\ Constructs\ a\ StockData\ object\ with\ the\ specified\ date\ and\ close\ price.\r\n\r\n\ @param\ date\ \ The\ date\ of\ the\ stock\ data.\r\n\ @param\ close\ The\ closing\ price\ of\ the\ stock\ on\ that\ date.\r\n
+comment2.params=
+comment2.target=java.util.Date\ getDate()
+comment2.text=\r\n\ Retrieves\ the\ date\ of\ the\ stock\ data.\r\n\r\n\ @return\ The\ date\ of\ this\ stock\ data.\r\n
+comment3.params=
+comment3.target=double\ getClose()
+comment3.text=\r\n\ Retrieves\ the\ closing\ price\ of\ the\ stock.\r\n\r\n\ @return\ The\ closing\ price\ of\ the\ stock.\r\n
+comment4.params=
+comment4.target=double\ getRsi()
+comment4.text=\r\n\ Retrieves\ the\ Relative\ Strength\ Index\ (RSI)\ value\ for\ the\ stock.\r\n\r\n\ @return\ The\ RSI\ value.\r\n
+comment5.params=rsi
+comment5.target=void\ setRsi(double)
+comment5.text=\r\n\ Sets\ the\ Relative\ Strength\ Index\ (RSI)\ value\ for\ the\ stock.\r\n\r\n\ @param\ rsi\ The\ RSI\ value\ to\ set.\r\n
+comment6.params=
+comment6.target=double\ getMa()
+comment6.text=\r\n\ Retrieves\ the\ Moving\ Average\ (MA)\ value\ for\ the\ stock.\r\n\r\n\ @return\ The\ MA\ value.\r\n
+comment7.params=ma
+comment7.target=void\ setMa(double)
+comment7.text=\r\n\ Sets\ the\ Moving\ Average\ (MA)\ value\ for\ the\ stock.\r\n\r\n\ @param\ ma\ The\ MA\ value\ to\ set.\r\n
+numComments=8

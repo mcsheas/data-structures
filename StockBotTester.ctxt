@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StockBotTester
+comment0.text=\r\n\ StockBotTester\ is\ the\ main\ class\ to\ test\ the\ StockBot\ functionalities.\r\n\ It\ loads\ stock\ data\ at\ different\ intervals\ (daily,\ weekly,\ monthly),\r\n\ calculates\ RSI\ and\ moving\ averages,\ and\ evaluates\ trading\ algorithms.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=stockBot\ timeframe
+comment2.target=void\ testStockBot(StockBot,\ java.lang.String)
+comment2.text=\r\n\ Tests\ a\ StockBot\ object\ by\ calculating\ RSI,\ moving\ averages,\ and\ evaluating\ trading\ algorithms.\r\n\ \r\n\ @param\ stockBot\ \ The\ StockBot\ instance\ to\ test.\r\n\ @param\ timeframe\ The\ timeframe\ (e.g.,\ Daily,\ Weekly,\ Monthly)\ being\ tested.\r\n
+numComments=3
