@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Pokemon
+comment1.params=userHp\ userAttack\ userDefense\ userSpAtk\ userSpDef\ userSpeed\ userName
+comment1.target=Pokemon(int,\ int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment10.params=opponent
+comment10.target=void\ attack(Pokemon)
+comment11.params=opponent
+comment11.target=int\ compareTo(Pokemon)
+comment12.params=obj
+comment12.target=boolean\ equals(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getHp()
+comment4.params=inputHp
+comment4.target=void\ setHp(int)
+comment5.params=
+comment5.target=int\ getAttack()
+comment6.params=
+comment6.target=int\ getSpAtk()
+comment7.params=
+comment7.target=int\ getSpDef()
+comment8.params=
+comment8.target=int\ getDefense()
+comment9.params=
+comment9.target=int\ getSpeed()
+numComments=13

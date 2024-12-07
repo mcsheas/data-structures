@@ -1,0 +1,17 @@
+#Sun Sep 22 19:34:34 EDT 2024
+bluej.teamsettings.git.branch=
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.git.repositoryPrefix=/mcsheas/data-structures.git
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore8=\\.DS_Store
+bluej.teamsettings.user=mcsheas
+bluej.teamsettings.vcs=git
+bluej.teamsettings.yourEmail=mcsheas@go.stockton.edu
+bluej.teamsettings.yourName=Sara

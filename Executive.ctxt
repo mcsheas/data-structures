@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Executive
+comment0.text=\r\n\ Represents\ an\ executive\ within\ an\ organization.\ Each\ executive\ has\ a\ name\r\n\ and\ may\ be\ associated\ with\ a\ department.\ An\ executive\ can\ be\ assigned\ or\ removed\r\n\ from\ a\ department.\r\n
+comment1.params=name
+comment1.target=Executive(java.lang.String)
+comment1.text=\r\n\ Constructs\ an\ Executive\ with\ a\ specified\ name.\ Initially,\ the\ executive\ is\ not\ assigned\ to\ any\ department.\r\n\r\n\ @param\ name\ The\ name\ of\ the\ executive.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Gets\ the\ name\ of\ the\ executive.\r\n\r\n\ @return\ The\ name\ of\ the\ executive.\r\n
+comment3.params=
+comment3.target=Department\ getDepartment()
+comment3.text=\r\n\ Gets\ the\ department\ to\ which\ the\ executive\ is\ currently\ assigned.\r\n\r\n\ @return\ The\ executive's\ department,\ or\ null\ if\ not\ assigned\ to\ any\ department.\r\n
+comment4.params=department
+comment4.target=void\ setDepartment(Department)
+comment4.text=\r\n\ Sets\ the\ department\ of\ the\ executive.\ This\ can\ be\ used\ to\ assign\ the\ executive\ to\ a\ new\ department\r\n\ or\ to\ remove\ them\ from\ a\ department\ by\ setting\ it\ to\ null.\r\n\r\n\ @param\ department\ The\ department\ to\ assign\ to\ the\ executive,\ or\ null\ to\ remove\ assignment.\r\n
+numComments=5

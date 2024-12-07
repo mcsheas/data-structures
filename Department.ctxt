@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Department
+comment0.text=\r\n\ Represents\ a\ department\ that\ holds\ a\ queue\ of\ executives\ ordered\ by\ seniority.\r\n\ Each\ executive\ has\ a\ salary\ based\ on\ their\ position\ in\ the\ queue.\r\n
+comment1.params=name
+comment1.target=Department(java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ new\ Department\ with\ the\ specified\ name.\r\n\r\n\ @param\ name\ The\ name\ of\ the\ department.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Retrieves\ the\ name\ of\ the\ department.\r\n\r\n\ @return\ The\ department\ name.\r\n
+comment3.params=executive
+comment3.target=void\ addExecutive(Executive)
+comment3.text=\r\n\ Adds\ an\ executive\ to\ the\ department\ and\ sets\ the\ executive's\ department\ to\ this.\r\n\r\n\ @param\ executive\ The\ executive\ to\ add.\r\n
+comment4.params=executive
+comment4.target=void\ removeExecutive(Executive)
+comment4.text=\r\n\ Removes\ an\ executive\ from\ the\ department\ and\ clears\ the\ executive's\ department\ reference.\r\n\r\n\ @param\ executive\ The\ executive\ to\ remove.\r\n
+comment5.params=executive
+comment5.target=int\ calculateSalary(Executive)
+comment5.text=\r\n\ Calculates\ the\ salary\ for\ a\ specific\ executive\ based\ on\ their\ seniority.\r\n\ Executives\ earn\ a\ base\ salary\ plus\ additional\ salary\ depending\ on\ their\ position\r\n\ in\ the\ queue.\r\n\r\n\ @param\ executive\ The\ executive\ whose\ salary\ is\ being\ calculated.\r\n\ @return\ The\ calculated\ salary\ of\ the\ executive.\r\n
+comment6.params=
+comment6.target=void\ listExecutives()
+comment6.text=\r\n\ Lists\ all\ executives\ in\ the\ department\ and\ their\ respective\ salaries,\ ordered\r\n\ by\ seniority\ (from\ the\ most\ junior\ to\ the\ most\ senior).\r\n
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Box
+comment1.params=room
+comment1.target=Box(Room)
+comment2.params=
+comment2.target=Box\ getLeftBox()
+comment3.params=
+comment3.target=Box\ getRightBox()
+comment4.params=
+comment4.target=Room\ getRoom()
+comment5.params=left
+comment5.target=void\ setLeftBox(Box)
+comment6.params=right
+comment6.target=void\ setRightBox(Box)
+comment7.params=
+comment7.target=void\ disconnect()
+numComments=8
